@@ -1,0 +1,10 @@
+
+{
+    "name": "vehicle-inventory-processor",
+    "version": "1.0.0",
+    "description": "Vehicle Inventory Data Processor - ProGineer Week 2",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js"
+    }
+}
